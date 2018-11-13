@@ -2,6 +2,8 @@
 
 Este repo contiene una demostración de como realizar documentos y presentaciones usando nbviewer y GitHub.
 
+El notebook 01-jupyter-markdown.ipynb contienen información detallada sobre el uso del lenguaje Markdown en notebooks de Jupyter. El notebook 02-jupyter-html.ipynb contiene información relacionada con el uso del lenguaje HTML para formatear celdas.
+
 #### Paso 1
 
 Cree el repo en GitHub. Puede usar un repo existente.
