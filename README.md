@@ -50,6 +50,8 @@ Se abrirá una ventana que mostrará el contenido del repo y permitirá seleccio
 
 ![IMG](img/modo-doc.jpg)
 
+Haga click [aquí](http://nbviewer.jupyter.org/github/jdvelasq/CDA-09-3-nbviewer/blob/master/demo.ipynb) para ir directamente al documento visualizado en nbviewer.
+
 #### Paso 6
 
 Para visualizar el libro como una presentación, haga click en el ícono del proyector.
