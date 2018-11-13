@@ -46,9 +46,14 @@ Suba el repo con la presentación a GitHub. Vaya a nbviewer (http://nbviewer.jup
      
 Se abrirá una ventana que permitirá visualizar su libro.
 
+![IMG](img/modo-doc.jpg)
+
 #### Paso 6
 
 Para visualizar el libro como una presentación, haga click en el ícono del proyector.
+
+![IMG](img/modo-slide.jpg)
+
 
 
 
