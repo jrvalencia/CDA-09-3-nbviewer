@@ -40,11 +40,13 @@ Se abrirá una ventana del explorador con su presentación. Verifiquela y haga l
 
 #### Paso 5
 
-Suba el repo con la presentación a GitHub. Vaya a nbviewer (http://nbviewer.jupyter.org). En la caja de texto, digite su nombre de usuario, el nombre del repo y el nombre del notebook:
+Suba el repo con la presentación a GitHub. Vaya a nbviewer (http://nbviewer.jupyter.org). En la caja de texto, digite su nombre de usuario y el nombre del repo:
 
-     jdvelasq/CDA-09-3-nbviewer/demo.ipynb
+     jdvelasq/CDA-09-3-nbviewer
      
-Se abrirá una ventana que permitirá visualizar su libro.
+![IMG](img/nbviewer.jpg)     
+     
+Se abrirá una ventana que mostrará el contenido del repo y permitirá seleccionar el libro para visualizarlo en modo documento.
 
 ![IMG](img/modo-doc.jpg)
 
